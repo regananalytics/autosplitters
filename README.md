@@ -1,0 +1,2 @@
+# autosplitters
+LiveSplit/PySplit Autosplitters
