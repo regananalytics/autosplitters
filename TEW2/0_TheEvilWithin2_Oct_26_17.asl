@@ -1,3 +1,5 @@
+// JMaynard24 Final Revision 10/26/17
+
 state("TEW2")
 {
     int isLoading       : 0x236B338;
